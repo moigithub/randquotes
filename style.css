@@ -1,0 +1,25 @@
+body {
+  background-color: #234;
+}
+
+.quotecontainer {
+  border: 5px dashed yellow;
+  margin-bottom: 1.2em;
+}
+
+.quote {
+  font-size: 3em;
+  color: pink;
+  padding: 1.2em;
+  font-style: italic;
+}
+
+.author {
+  color: #abc;
+  margin-bottom: 2em;
+  font-size: 1.5em;
+}
+
+#more {
+
+}
